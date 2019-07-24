@@ -9,6 +9,8 @@ Install PyGithub:
 $ pip install PyGithub
 ```
 
+And change some lines with your correct username and password in the files.
+
 ## Usage
 Just run the script with the repo name like this:
 
