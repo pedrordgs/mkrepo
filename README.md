@@ -1,7 +1,7 @@
-#mkrepo
+# mkrepo
 This is just a script that creates a github repo.
 
-##Before you start
+## Before you start
 
 Install PyGithub:
 
@@ -9,7 +9,7 @@ Install PyGithub:
 $ pip install PyGithub
 ```
 
-##Usage
+## Usage
 Just run the script with the repo name like this:
 
 ```bash
